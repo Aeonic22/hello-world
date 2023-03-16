@@ -1,0 +1,11 @@
+{
+  "name": "com.blueraven.vjeko",
+  "displayName": "Vjeko",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "repository": {
+    "url": "https://github.com/Aeonic22/hello-world.git"
+    "type": "git",
+    "revision": "upmtest"
+  }
+}
